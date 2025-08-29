@@ -12,4 +12,4 @@ Langkah 3: Buat nama project flutter hello_world seperti berikut, lalu tekan ent
 <img width="800" height="141" alt="image" src="https://github.com/user-attachments/assets/55827de0-fb98-4f0a-b723-b25480a0939c" />
 Langkah 4: Jika sudah selesai proses pembuatan project baru, pastikan tampilan seperti berikut. Pesan akan tampil berupa "Your Flutter Project is ready!" artinya Anda telah berhasil membuat project Flutter baru.
 <img width="2559" height="1529" alt="image" src="https://github.com/user-attachments/assets/e7bf881d-8838-405e-b160-4ea51bb16154" />
-nicko
+
