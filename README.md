@@ -19,7 +19,9 @@ Praktikum 2: Menyambungkan Perangkat Android atau Emulator
 ![1756456809809](https://github.com/user-attachments/assets/b6e17adf-4138-468f-80b0-1612ed9ae545)
 3. Lalu masuk ke aplikasi android stuio
 <img width="725" height="265" alt="image" src="https://github.com/user-attachments/assets/d9c03536-335b-4bf4-b643-0fd6e8cb56eb" />
+
 Perhatikan pada tulisan select device, pastikan android muncul ke dalam kolom select device lalu pilih nama android
+
 4. Pencet tanda + yang ada seperti gambar di bawah lalu juga pilih device android sesuai hp sehingga akan muncul device di layar laptop
 <img width="2559" height="1525" alt="image" src="https://github.com/user-attachments/assets/d02474d6-137a-42a3-af7d-ba4570d42c33" />
 
